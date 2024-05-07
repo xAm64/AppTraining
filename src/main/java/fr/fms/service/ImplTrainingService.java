@@ -17,4 +17,9 @@ public class ImplTrainingService implements ITrainingService{
     public List<Training> getTrainings() {
         return trainingRepository.findAll();
     }
+
+    public Training saveTraining(Training training){
+        return trainingRepository.save(training);
+    }
+
 }

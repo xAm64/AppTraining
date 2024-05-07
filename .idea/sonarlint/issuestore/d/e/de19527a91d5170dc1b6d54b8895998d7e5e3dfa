@@ -1,3 +1,11 @@
 
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(úÄ‰¬8×ƒâ’õ1J$dcbf1abe-7eeb-4ac3-9b9b-b432fe0700d0
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8‘ýÙŽõ1J$137e35fc-15ff-4830-8663-0dfd22dc0cc9
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8âƒâ’õ1J$95196dd1-b0c2-4163-a49e-d448ddd07378
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(úÄ‰¬8åƒâ’õ1J$9af4e35e-a434-479d-b41a-f215124b9c03
+ƒ
+java:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(ä¯„æ8çƒâ’õ1J$d05aa4ee-2aa3-437f-833c-abbe1f977eef
+ƒ	java:S125""<This block of commented-out lines of code should be removed.(†‹Þ©þÿÿÿÿ8èƒâ’õ1J$fad9b33c-eb17-453e-9761-49463603aba9
+›
+java:S1128"XRemove this unused import 'org.springframework.web.bind.ServletRequestBindingException'.(”ŸÒŠ8ëƒâ’õ1J$75991aba-3eb4-4156-b2b0-6618954db74b
