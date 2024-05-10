@@ -1,5 +1,9 @@
 
-_
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ä®õ1
-S
-java:S1068"1Remove this unused "trainingsList" private field.(•ÕÔÕøÿÿÿÿ8¡Ä®õ1
+z
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(˜Å›„8†çó‘ö1J$844766e5-7596-4262-98c9-ee34e410455a
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ä®õ1J$61bb016a-2eb2-482a-b3e8-f010bd263f68
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8™„Ì“ö1
+y
+java:S1068"1Remove this unused "trainingsList" private field.(•ÕÔÕøÿÿÿÿ8¡Ä®õ1J$5ef322c1-b31e-4f2d-87af-4564194592f6

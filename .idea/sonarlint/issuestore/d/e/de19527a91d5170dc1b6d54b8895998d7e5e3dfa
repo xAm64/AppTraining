@@ -1,13 +1,9 @@
 
-ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(úÄ‰¬8±“€ö1J$e79ed441-35f7-4d75-926f-078678f3657b
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(úÄ‰¬8šÑå‘ö1J$fb87f88c-c7c0-404b-9e28-cedebbfb30ff
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Â“€ö1J$064996ca-6c53-4360-bbb0-97e9e29df298
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¢Ñå‘ö1J$609c4e09-70f9-4522-aee4-57f0eb8be8f3
 ¯
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(úÄ‰¬8È“€ö1J$cbb2df0e-3721-42d9-a9a8-ce348cfe5fb2
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(úÄ‰¬8¥Ñå‘ö1J$4339048c-47cc-4213-8136-fc1dab385fb1
 ƒ
-java:S4684'"@Replace this persistent entity with a simple POJO or DTO object.(ä¯„æ8Ì“€ö1J$ee226ff7-52a5-498e-8fbe-1e60640f3b84
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(†‹Ş©şÿÿÿÿ8Í“€ö1J$d2e73769-9160-4831-8377-6229b830171a
-
-java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8Ó“€ö1J$2ac8e1e3-1283-449e-9f1e-c925a6db20e3
-›
-java:S1128"XRemove this unused import 'org.springframework.web.bind.ServletRequestBindingException'.(”ŸÒŠ8Ó“€ö1J$9899b12d-8c45-4dcc-b976-82d496343d0b
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(ä¯„æ8¦Ñå‘ö1J$86632756-0cdf-436c-8d07-c43ba4859a58
+ƒ	java:S125!"<This block of commented-out lines of code should be removed.(†‹Ş©şÿÿÿÿ8§Ñå‘ö1J$60fcf650-98d8-4b45-9b11-e2af7a61c8ff

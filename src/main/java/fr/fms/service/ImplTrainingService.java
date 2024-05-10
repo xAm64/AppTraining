@@ -5,6 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import fr.fms.dao.TrainingRepository;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class ImplTrainingService implements ITrainingService{
@@ -22,4 +23,8 @@ public class ImplTrainingService implements ITrainingService{
         return trainingRepository.save(training);
     }
 
+    @Override
+    public Training getTrainingById(Long id){
+        return trainingRepository.findById(id).get();
+    }
 }

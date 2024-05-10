@@ -1,7 +1,9 @@
 package fr.fms.web;
 
 import fr.fms.entities.Training;
+import fr.fms.exception.RecordNotFoundException;
 import fr.fms.service.ImplTrainingService;
+import net.bytebuddy.dynamic.scaffold.TypeWriter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.ServletRequestBindingException;
@@ -14,7 +16,7 @@ import java.util.Objects;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-@CrossOrigin("*")
+@CrossOrigin
 @RestController
 public class TrainingController {
     @Autowired
@@ -47,5 +49,12 @@ public class TrainingController {
                 .buildAndExpand(training.getId())
                 .toUri();
         return ResponseEntity.created(location).build();
+    }
+
+    //page 21
+    @PostMapping("/training/{id}")
+    public Training getTrainingById(@PathVariable("id") Long id){
+        return implTrainingService.getTrainingById(id)
+                .orElseThrow(() -> new RecordNotFoundException("Id de café "+id+" n'existe pas"));
     }
 }
