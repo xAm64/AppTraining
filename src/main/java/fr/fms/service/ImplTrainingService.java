@@ -24,7 +24,7 @@ public class ImplTrainingService implements ITrainingService{
     }
 
     @Override
-    public Training getTrainingById(Long id){
-        return trainingRepository.findById(id).get();
+    public Optional<Training> getTrainingById(Long id){
+        return trainingRepository.findById(id);
     }
 }
