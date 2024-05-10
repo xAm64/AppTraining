@@ -1,11 +1,13 @@
 
-ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(úÄ‰¬8×ƒâ’õ1J$dcbf1abe-7eeb-4ac3-9b9b-b432fe0700d0
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(úÄ‰¬8±“€ö1J$e79ed441-35f7-4d75-926f-078678f3657b
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8âƒâ’õ1J$95196dd1-b0c2-4163-a49e-d448ddd07378
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Â“€ö1J$064996ca-6c53-4360-bbb0-97e9e29df298
 ¯
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(úÄ‰¬8åƒâ’õ1J$9af4e35e-a434-479d-b41a-f215124b9c03
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(úÄ‰¬8È“€ö1J$cbb2df0e-3721-42d9-a9a8-ce348cfe5fb2
 ƒ
-java:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(ä¯„æ8çƒâ’õ1J$d05aa4ee-2aa3-437f-833c-abbe1f977eef
-ƒ	java:S125""<This block of commented-out lines of code should be removed.(†‹Ş©şÿÿÿÿ8èƒâ’õ1J$fad9b33c-eb17-453e-9761-49463603aba9
+java:S4684'"@Replace this persistent entity with a simple POJO or DTO object.(ä¯„æ8Ì“€ö1J$ee226ff7-52a5-498e-8fbe-1e60640f3b84
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(†‹Ş©şÿÿÿÿ8Í“€ö1J$d2e73769-9160-4831-8377-6229b830171a
+
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8Ó“€ö1J$2ac8e1e3-1283-449e-9f1e-c925a6db20e3
 ›
-java:S1128"XRemove this unused import 'org.springframework.web.bind.ServletRequestBindingException'.(”ŸÒŠ8ëƒâ’õ1J$75991aba-3eb4-4156-b2b0-6618954db74b
+java:S1128"XRemove this unused import 'org.springframework.web.bind.ServletRequestBindingException'.(”ŸÒŠ8Ó“€ö1J$9899b12d-8c45-4dcc-b976-82d496343d0b
