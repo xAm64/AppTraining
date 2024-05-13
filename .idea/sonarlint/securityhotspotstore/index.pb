@@ -23,3 +23,7 @@ i
 9src/main/java/fr/fms/exception/TrainExceptionHandler.java,7\2\72a68d38cacb553a98c4faeaf9f8968f571d5e72
 n
 >src/main/java/fr/fms/exception/MissingHeaderInfoException.java,1\3\132da38cddf15c809ead19af61bb28560d1e2cea
+[
++src/main/java/fr/fms/entities/Category.java,e\a\eaca6e40994962bef6ae0ebb92777e3480df3e22
+`
+0src/main/java/fr/fms/dao/CategoryRepository.java,f\d\fd5f2b3c0afb6b51e298f96a0f986a8283328db0

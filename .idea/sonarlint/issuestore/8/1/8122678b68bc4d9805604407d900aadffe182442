@@ -1,5 +1,9 @@
 
-…
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8»àø“ö1J$87a91ee0-9a22-4503-b10a-c38fa327a12f
-y
-java:S1068"1Remove this unused "trainingsList" private field.(•ÕÔÕøÿÿÿÿ8Ààø“ö1J$49823fef-9c44-4680-94cf-f12a872086a4
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8şß’÷1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8şß’÷1
+F
+java:S1172&")Remove this unused method parameter "id".(¤Ç§Î8‚à’÷1
+S
+java:S1068"1Remove this unused "trainingsList" private field.(•ÕÔÕøÿÿÿÿ8ƒà’÷1

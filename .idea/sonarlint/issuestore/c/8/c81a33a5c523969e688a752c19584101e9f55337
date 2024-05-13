@@ -1,3 +1,9 @@
 
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8®é¤ñô1J$78856c6f-c08b-445f-b92e-5e077370f6a8
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÁÁ‰÷1J$3ac44589-228e-4261-a204-77160092a4c1
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÁÁ‰÷1J$9ff458ce-8603-47f8-ba93-95093b579f55
+‚
+java:S1854!":Remove this useless assignment to local variable "divers".(ˆƒûøÿÿÿÿ8µ·Â‰÷1J$9336e648-1ac7-4f30-9108-ec7fafb23993
+s
+java:S1481!"+Remove this unused "divers" local variable.(ˆƒûøÿÿÿÿ8¸·Â‰÷1J$2aac7aae-21a3-4bc7-9201-6e51fe152995

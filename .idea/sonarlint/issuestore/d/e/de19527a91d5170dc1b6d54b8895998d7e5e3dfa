@@ -1,9 +1,9 @@
 
-ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(úÄ‰¬8´ÁË”ö1J$441bf43d-51c8-49b0-a3a4-875f81891716
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(úÄ‰¬8¨«÷1J$b492253e-5711-4658-bcaf-4e2e4734b1cd
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8»ÁË”ö1J$9a9bd8ef-6c85-4a9a-9ff0-4abdb89daa26
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8µ«÷1J$98d4e73a-285b-470d-b2c0-b0327b70fbf9
 ¯
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(úÄ‰¬8¾ÁË”ö1J$44a27f2e-7413-452d-a498-5ef03f02f0d5
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(úÄ‰¬8¹«÷1J$b286f57b-cf89-497a-b7d5-ee76d31afd9c
 ƒ
-java:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(ä¯„æ8ÀÁË”ö1J$e1794752-a872-4b77-ab13-1a84f1639057
-ƒ	java:S125#"<This block of commented-out lines of code should be removed.(†‹Ş©şÿÿÿÿ8ÁÁË”ö1J$e21e8433-6df8-4e31-9b41-a00527b082bd
+java:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(ä¯„æ8¼«÷1J$c93228f3-e12d-4a94-9f0c-025e10e5bbe5
+ƒ	java:S125%"<This block of commented-out lines of code should be removed.(†‹Ş©şÿÿÿÿ8½«÷1J$fbb49c8b-0b95-488c-bc18-ae4508be8bfd

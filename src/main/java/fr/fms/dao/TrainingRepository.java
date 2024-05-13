@@ -11,4 +11,5 @@ import java.util.List;
 @RepositoryRestResource
 public interface TrainingRepository extends JpaRepository<Training, Long> {
     public List<Training> findAll();
+    public List<Training> findByCategoryId(Long id);
 }
